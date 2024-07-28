@@ -12,7 +12,7 @@
         </div>
     </header>
 
-    <main class="container mx-auto px-6 py-8" style="padding: 20px;">
+    <main class="container mx-auto px-6 py-8" style="padding: 25px;">
         <section id="introduction" class="mb-12">
             <h2 class="text-2xl font-bold mb-4">Introduction</h2>
             <p class="mb-2">Welcome to my portfolio! 
